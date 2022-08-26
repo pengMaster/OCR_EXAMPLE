@@ -16,12 +16,12 @@
     - [开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口，方便人类日常工作使用或者其他程序来调用（python）](https://github.com/alisen39/TrWebOCR)
     - [ 运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别（python3.6）](https://github.com/xiaofengShi/CHINESE-OCR)
 
-- [验证码识别](#zjsb)
+- [验证码识别](#yzmsb)
     - [带带弟弟 通用验证码识别OCR pypi版（python3）](https://github.com/sml2h3/ddddocr)
 
 
-- [图片弹幕识别](#zjsb)
+- [图片弹幕识别](#tpsb)
     - [团子翻译器 - 基于OCR的生肉翻译软件（python3）](https://github.com/PantsuDango/Dango-Translator)
 
-- [综合识别](#zjsb)
+- [综合识别](#zhsb)
     - [多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码（python3）](https://github.com/miaomiaosoft/PandaOCR)
