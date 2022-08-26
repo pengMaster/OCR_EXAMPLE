@@ -17,7 +17,7 @@
     - [开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口，方便人类日常工作使用或者其他程序来调用（python）](https://github.com/alisen39/TrWebOCR)
     - [ 运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别（python3.6）](https://github.com/xiaofengShi/CHINESE-OCR)
 
-- [验证码识别](#yzmsb)
+- [验证码识别]
     - [带带弟弟 通用验证码识别OCR pypi版（python3）](https://github.com/sml2h3/ddddocr)
 
 
